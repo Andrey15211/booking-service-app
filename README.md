@@ -1,5 +1,10 @@
 # NOIR Studio Booking
 
+## Links
+
+- GitHub: https://github.com/Andrey15211/booking-service-app
+- Live Demo: https://booking-service-app-lyart.vercel.app
+
 A standalone bilingual portfolio case study for a premium barbershop and beauty studio. It demonstrates a complete service-booking workflow, date/time rules, validated forms, responsive UI, mock administration, and a replaceable Supabase data boundary.
 
 ## Stack
