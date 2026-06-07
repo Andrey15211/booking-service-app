@@ -1,0 +1,164 @@
+{
+  "Metadata": {
+    "title": "NOIR Studio — personal style, refined",
+    "description": "A premium grooming and beauty studio with a simple multi-step online booking experience."
+  },
+  "Common": {
+    "brand": "NOIR",
+    "backHome": "Back home",
+    "backSite": "Back to site",
+    "phone": "+7 495 123-45-67",
+    "minutes": "{value} min",
+    "currency": "₽{value}",
+    "language": "Language",
+    "loading": "Loading"
+  },
+  "Navigation": {
+    "label": "Main navigation",
+    "services": "Services",
+    "masters": "Specialists",
+    "admin": "Admin",
+    "book": "Book now"
+  },
+  "Home": {
+    "heroKicker": "Grooming and beauty studio in Moscow",
+    "heroTitle": "Quiet luxury.",
+    "heroAccent": "Precise style.",
+    "heroText": "Personal rituals for hair, beard and skin. No rush, no pressure and no accidental decisions.",
+    "chooseTime": "Choose a time",
+    "viewServices": "View services",
+    "heroImageLabel": "The atmosphere of NOIR premium studio",
+    "hours": "Mon–Sat, 10:00–21:00",
+    "district": "Patriarch Ponds",
+    "servicesKicker": "Studio menu",
+    "servicesTitle": "Only what",
+    "servicesTitleLine": "you need",
+    "servicesText": "Every appointment begins with a short consultation. Your specialist will clarify your routine, pace and desired result.",
+    "teamKicker": "The team",
+    "teamTitle": "A distinct signature",
+    "chooseMaster": "Choose a specialist",
+    "portrait": "Portrait / 0{value}",
+    "reviewsKicker": "Guest reviews",
+    "reviews": [
+      {
+        "text": "Nothing here feels generic. Alexey understood the brief and created a shape that is easy to maintain at home.",
+        "author": "Dmitry, regular guest"
+      },
+      {
+        "text": "A genuinely calm space and very precise color work. A month later, the shade still looks just as refined.",
+        "author": "Elena, studio guest"
+      }
+    ],
+    "finalCta": "Your time is ready to book",
+    "goBooking": "Go to booking"
+  },
+  "Footer": {
+    "address": "8 Bolshoy Patriarshy Lane, Moscow",
+    "booking": "Online booking"
+  },
+  "Services": {
+    "signature-cut": {
+      "name": "Signature haircut",
+      "category": "Grooming",
+      "description": "Consultation, tailored shape, wash and styling with personal care advice."
+    },
+    "beard-ritual": {
+      "name": "Beard ritual",
+      "category": "Grooming",
+      "description": "Shape design, hot towel treatment and premium beard care."
+    },
+    "color-gloss": {
+      "name": "Color and gloss",
+      "category": "Color",
+      "description": "A subtle tone refresh, restorative care and professional styling."
+    },
+    "face-care": {
+      "name": "Facial treatment",
+      "category": "Skin care",
+      "description": "Cleansing, massage and a restorative mask selected for your skin."
+    }
+  },
+  "Masters": {
+    "alexey-volkov": {
+      "name": "Alexey Volkov",
+      "role": "Senior barber",
+      "experience": "9 years of experience",
+      "bio": "Precise shapes, timeless cuts and modern texture without unnecessary showmanship."
+    },
+    "anna-morozova": {
+      "name": "Anna Morozova",
+      "role": "Hair stylist and colorist",
+      "experience": "11 years of experience",
+      "bio": "Natural color, soft transitions and styling designed to work beyond the salon."
+    },
+    "maria-orlova": {
+      "name": "Maria Orlova",
+      "role": "Aesthetician",
+      "experience": "7 years of experience",
+      "bio": "Gentle care protocols focused on the condition and comfort of your skin."
+    }
+  },
+  "Booking": {
+    "metadataTitle": "Online booking — NOIR Studio",
+    "progress": ["Service", "Specialist", "Date", "Time", "Details", "Done"],
+    "step": "Step {step} of 6",
+    "kicker": "Online booking",
+    "headings": ["Choose a service", "Choose your specialist", "Choose a convenient day", "Available times", "How can we reach you?"],
+    "back": "Back",
+    "emptyTitle": "No available times",
+    "emptyText": "Try another day or return to the specialist selection.",
+    "summary": "Your appointment",
+    "confirmationKicker": "Appointment booked",
+    "confirmationTitle": "See you soon, {name}",
+    "confirmationText": "We will send a reminder to {phone}. In demo mode, the appointment is not submitted to a server.",
+    "summaryLabels": {
+      "service": "Service",
+      "master": "Specialist",
+      "date": "Date",
+      "time": "Time"
+    },
+    "restart": "Book another appointment",
+    "form": {
+      "name": "Your name",
+      "namePlaceholder": "Anna",
+      "phone": "Phone",
+      "phonePlaceholder": "+7 999 123-45-67",
+      "consent": "I consent to the processing of my personal data for this appointment.",
+      "submit": "Confirm appointment",
+      "submitting": "Confirming appointment…",
+      "errors": {
+        "nameRequired": "Enter your name",
+        "nameLong": "The name is too long",
+        "phone": "Enter a valid Russian phone number"
+      }
+    }
+  },
+  "Admin": {
+    "metadataTitle": "Appointments — NOIR Studio",
+    "role": "Administrator",
+    "kicker": "Studio operations",
+    "title": "Guest appointments",
+    "description": "Filter the schedule and update statuses. Changes persist only until the page is refreshed.",
+    "date": "Date",
+    "datePlaceholder": "YYYY-MM-DD",
+    "master": "Specialist",
+    "allMasters": "All specialists",
+    "reset": "Reset filters",
+    "found": "Appointments found: {count}",
+    "demoMode": "Demo mode",
+    "emptyTitle": "No appointments found",
+    "emptyText": "Change or reset the filters.",
+    "statusLabel": "Appointment status for {name}",
+    "statuses": {
+      "new": "New",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled"
+    },
+    "customers": {
+      "bk-1001": "Michael Sokolov",
+      "bk-1002": "Ilya Vorontsov",
+      "bk-1003": "Ekaterina Belova",
+      "bk-1004": "Olga Mironova"
+    }
+  }
+}
